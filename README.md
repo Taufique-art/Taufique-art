@@ -2,9 +2,10 @@
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ...github
-- 📫 How to reach me ...
+- 📫 How to reach me ... taufiquealam85074@gmail.com
 - 😄 Pronouns: ...he/him
-- ⚡ Fun fact: ...
+
+  insta id: https://www.instagram.com/royaltaufique?igsh=cW91Z2xnZzV6cDRn
 
 <!---
 Taufique-art/Taufique-art is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
